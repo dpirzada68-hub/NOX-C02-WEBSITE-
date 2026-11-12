@@ -1,0 +1,10 @@
+{
+  "framework": null,
+  "outputDirectory": "public",
+  "functions": {
+    "api/*.py": {
+      "includeFiles": "_data/**",
+      "maxDuration": 30
+    }
+  }
+}
